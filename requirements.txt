@@ -1,0 +1,4 @@
+bs4==0.0.1
+beautifulsoup4==4.10.0
+pyperclip==1.8.2
+requests==2.27.1
